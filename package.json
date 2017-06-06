@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/SETTER2000/listener-dir#readme",
   "dependencies": {
+    "events": "^1.1.1",
+    "fs": "0.0.1-security",
+    "mv": "^2.1.1",
     "util": "^0.10.3"
   }
 }
